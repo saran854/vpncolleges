@@ -1,0 +1,7 @@
+{
+  "name": " V.P.N College of Engineering and Technology Admission System",
+  "description": "A comprehensive online admission portal for V.P.N College of Engineering and Technology featuring AI-powered academic counseling, multi-step application forms, and an admin management dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
